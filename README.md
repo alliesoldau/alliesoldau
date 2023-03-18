@@ -29,6 +29,7 @@ When not crunching code you can find me peak-bagging in Upstate New York, crafti
 
 ## Skills 🧑🏼‍💻
 🐥 Full Stack Development: 
+<i class="devicon-javascript-plain"></i>
 
 ⚙️ Mechanical Applications: 
 
