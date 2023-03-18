@@ -1,5 +1,13 @@
 # 😁 Hey, I'm Allie! 😁 
 
+Experienced in Full Stack Development with a focus on JavaScript, React.js, and Ruby on Rails. Mechanical Engineering background with a strong desire to create elegant and efficient solutions.
+
+Customer focused, commited to cross-functional collaboration, and dedicated to bringing projects from concept to shelf (whether virtual or physical).
+
+When not crunching code you can find me peak-bagging in Upstate New York, crafting woodworking creations with my fiance, and spending countless hours in rainy weather volunteering with amphibian conservation groups.
+
+🏳️‍🌈 Proud member of the LGBTQ+ community. 🏳️‍🌈
+
 <!--
 **alliesoldau/alliesoldau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
