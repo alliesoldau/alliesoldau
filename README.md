@@ -1,4 +1,4 @@
-# Hey, I'm Allie! 😁 
+# Hey, I'm Allie <sub>(they/them)<sub>! 😁 
 
 Experienced in Full Stack Development with a focus on JavaScript, React.js, and Ruby on Rails. Mechanical Engineering background with a strong desire to create elegant and efficient solutions.
 
