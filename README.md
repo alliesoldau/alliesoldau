@@ -28,12 +28,16 @@ When not crunching code you can find me peak-bagging in Upstate New York, crafti
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/allie-soldau/) [![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alliesoldau@gmail.com) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/alliesoldau/)
 
 ## Skills 🧑🏼‍💻
-🐥 Full Stack Development: 
+🐥 Full Stack Development
+
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
 
-⚙️ Mechanical Applications: 
 
-📋 Program Management:
+⚙️ Mechanical Applications
+
+📋 Program Management
 
 <!--
 **alliesoldau/alliesoldau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
