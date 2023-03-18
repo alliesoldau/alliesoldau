@@ -1,4 +1,4 @@
-# Hey, I'm Allie (they/them)`#D3D3D3`! 😁 
+# Hey, I'm Allie (they/them)<span style="color:blue">some *blue* text</span>! 😁 
 
 Experienced in Full Stack Development with a focus on JavaScript, React.js, and Ruby on Rails. Mechanical Engineering background with a strong desire to create elegant and efficient solutions.
 
