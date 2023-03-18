@@ -25,7 +25,7 @@ When not crunching code you can find me peak-bagging in Upstate New York, crafti
 ## Get in Touch 📭
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/allie-soldau/)
 
-[![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alliesoldau@gmail.com?subject=[GitHub])
+[![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alliesoldau@gmail.com?subject=Reaching Out Through Your GitHub)
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/alliesoldau/)
 
