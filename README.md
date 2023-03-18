@@ -23,9 +23,8 @@ When not crunching code you can find me peak-bagging in Upstate New York, crafti
 🔪 An intuitive space for woodworkers to design cutting board projects, and offers material purchasing estimates.
 
 ## Get in Touch 📭
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/allie-soldau/)
 
-(https://www.linkedin.com/in/allie-soldau/)
 <!--
 **alliesoldau/alliesoldau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
