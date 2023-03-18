@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 # Hey, I'm Allie (they/them)! 😁 
 
 Experienced in Full Stack Development with a focus on JavaScript, React.js, and Ruby on Rails. Mechanical Engineering background with a strong desire to create elegant and efficient solutions.
@@ -27,7 +28,9 @@ When not crunching code you can find me peak-bagging in Upstate New York, crafti
 
 ## Skills 🧑🏼‍💻
 🐥 Full Stack Development: 
+
 ⚙️ Mechanical Applications: 
+
 📋 Program Management:
 
 <!--
