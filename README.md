@@ -12,7 +12,7 @@ When not crunching code you can find me peak-bagging in Upstate New York, crafti
 
 ## Projects 💻
 
-**CampNYS** — [GitHub](https://github.com/alliesoldau/CampNYS) | [Demo](https://youtu.be/Crt8a-tmCgw)
+**CampNYS** — [GitHub](https://github.com/alliesoldau/CampNYS) | [Demo]([https://youtu.be/Crt8a-tmCgw](https://youtu.be/XwI78EUfryU))
 
 🏕️ A centralized campsite reservation manager for hosts and campers with a custom interactive map and calendar.
 
