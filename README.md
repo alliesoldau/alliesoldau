@@ -2,9 +2,9 @@
 
 # Hey, I'm Allie (they/them)! 😁 
 
-Experienced in Full Stack Development with a focus on JavaScript, React.js, and Ruby on Rails. Mechanical Engineering background with a strong desire to create elegant and efficient solutions.
+I'm experienced in Full Stack Development with a focus on JavaScript, React.js, and Ruby on Rails. I studied Mechanical Engineering in school and swapped over to Software Engineering after catch the coding bug. I have a strong desire to create elegant and efficient solutions.
 
-Customer focused, commited to cross-functional collaboration, and dedicated to bringing projects from concept to shelf (whether virtual or physical).
+I'm customer focused, commited to cross-functional collaboration, and dedicated to bringing projects from concept to shelf (whether virtual or physical).
 
 When not crunching code you can find me peak-bagging in Upstate New York, crafting woodworking creations with my husband, and spending countless hours in rainy weather volunteering with amphibian conservation groups.
 
